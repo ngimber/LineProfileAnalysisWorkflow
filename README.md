@@ -10,6 +10,6 @@ Instructions
 In order to reuse or reproduce the data, the file structure must be the following:
 
 - A Parent folder must be specified within the notebook.
-- This parent should must contains subfolders for each experiment (single N).
+- This parent folder should must contains subfolders for each experiment (single N).
 - Subfolders contain .csv files.
 - The .csv file structure can be obtained from the example files.  

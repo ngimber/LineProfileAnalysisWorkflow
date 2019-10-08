@@ -2,7 +2,7 @@ LineProfileAnalysisWorkflow
 ==========
 
 The included Jupyter Notebooks were specifically designed to find and analyze local maxima in line profiles from STED and Confocal images.
-All workflows were used to analyze line profiles for the publication Brockmann et al. 2019, eLife: Figures S1-S3.
+All workflows were used to analyze line profiles for the publication Brockmann et al. 2019, eLife: Figures S1-S3 (https://elifesciences.org/articles/43243).
 
 
 Instructions
